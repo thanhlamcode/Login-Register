@@ -1,0 +1,252 @@
+C:\Users\dtlam\OneDrive\Documents\A Code\AdminLogin\AdminLogin\bin\Debug\Database1.mdf
+C:\Users\dtlam\OneDrive\Documents\A Code\AdminLogin\AdminLogin\bin\Debug\Database1_log.ldf
+C:\Users\dtlam\OneDrive\Documents\A Code\AdminLogin\AdminLogin\bin\Debug\AdminLogin.exe.config
+C:\Users\dtlam\OneDrive\Documents\A Code\AdminLogin\AdminLogin\bin\Debug\AdminLogin.exe
+C:\Users\dtlam\OneDrive\Documents\A Code\AdminLogin\AdminLogin\bin\Debug\AdminLogin.pdb
+C:\Users\dtlam\OneDrive\Documents\A Code\AdminLogin\AdminLogin\obj\Debug\AdminLogin.csproj.AssemblyReference.cache
+C:\Users\dtlam\OneDrive\Documents\A Code\AdminLogin\AdminLogin\obj\Debug\AdminLogin.DangKy.resources
+C:\Users\dtlam\OneDrive\Documents\A Code\AdminLogin\AdminLogin\obj\Debug\AdminLogin.Properties.Resources.resources
+C:\Users\dtlam\OneDrive\Documents\A Code\AdminLogin\AdminLogin\obj\Debug\AdminLogin.QuenMatKhau.resources
+C:\Users\dtlam\OneDrive\Documents\A Code\AdminLogin\AdminLogin\obj\Debug\AdminLogin.csproj.GenerateResource.cache
+C:\Users\dtlam\OneDrive\Documents\A Code\AdminLogin\AdminLogin\obj\Debug\AdminLogin.csproj.CoreCompileInputs.cache
+C:\Users\dtlam\OneDrive\Documents\A Code\AdminLogin\AdminLogin\obj\Debug\AdminLogin.exe
+C:\Users\dtlam\OneDrive\Documents\A Code\AdminLogin\AdminLogin\obj\Debug\AdminLogin.pdb
+C:\Users\dtlam\OneDrive\Documents\A Code\AdminLogin\AdminLogin\obj\Debug\AdminLogin.DangNhap.resources
+C:\Users\dtlam\OneDrive\Documents\A Code\AdminLogin\AdminLogin\obj\Debug\AdminLogin.Home.resources
+C:\Users\dtlam\OneDrive\Documents\A Code\AdminLogin\AdminLogin\obj\Debug\AdminLogin.PlayerUnity.resources
+C:\Users\dtlam\OneDrive\Documents\A Code\AdminLogin\AdminLogin\bin\Debug\DevExpress.Pdf.v23.2.Core.dll
+C:\Users\dtlam\OneDrive\Documents\A Code\AdminLogin\AdminLogin\bin\Debug\DevExpress.Pdf.v23.2.Drawing.dll
+C:\Users\dtlam\OneDrive\Documents\A Code\AdminLogin\AdminLogin\bin\Debug\DevExpress.Data.Desktop.v23.2.xml
+C:\Users\dtlam\OneDrive\Documents\A Code\AdminLogin\AdminLogin\bin\Debug\DevExpress.Data.v23.2.xml
+C:\Users\dtlam\OneDrive\Documents\A Code\AdminLogin\AdminLogin\bin\Debug\DevExpress.Drawing.v23.2.xml
+C:\Users\dtlam\OneDrive\Documents\A Code\AdminLogin\AdminLogin\bin\Debug\DevExpress.Printing.v23.2.Core.xml
+C:\Users\dtlam\OneDrive\Documents\A Code\AdminLogin\AdminLogin\bin\Debug\DevExpress.Utils.v23.2.xml
+C:\Users\dtlam\OneDrive\Documents\A Code\AdminLogin\AdminLogin\bin\Debug\DevExpress.Pdf.v23.2.Core.xml
+C:\Users\dtlam\OneDrive\Documents\A Code\AdminLogin\AdminLogin\bin\Debug\DevExpress.Pdf.v23.2.Drawing.xml
+C:\Users\dtlam\OneDrive\Documents\A Code\AdminLogin\AdminLogin\obj\Debug\AdminLogin.csproj.CopyComplete
+C:\Users\dtlam\OneDrive\Documents\A Code\Winform\AdminLogin\AdminLogin\bin\Debug\Database1.mdf
+C:\Users\dtlam\OneDrive\Documents\A Code\Winform\AdminLogin\AdminLogin\bin\Debug\Database1_log.ldf
+C:\Users\dtlam\OneDrive\Documents\A Code\Winform\AdminLogin\AdminLogin\bin\Debug\AdminLogin.exe.config
+C:\Users\dtlam\OneDrive\Documents\A Code\Winform\AdminLogin\AdminLogin\bin\Debug\AdminLogin.exe
+C:\Users\dtlam\OneDrive\Documents\A Code\Winform\AdminLogin\AdminLogin\bin\Debug\AdminLogin.pdb
+C:\Users\dtlam\OneDrive\Documents\A Code\Winform\AdminLogin\AdminLogin\bin\Debug\DevExpress.Pdf.v23.2.Core.dll
+C:\Users\dtlam\OneDrive\Documents\A Code\Winform\AdminLogin\AdminLogin\bin\Debug\DevExpress.Pdf.v23.2.Drawing.dll
+C:\Users\dtlam\OneDrive\Documents\A Code\Winform\AdminLogin\AdminLogin\bin\Debug\DevExpress.Data.Desktop.v23.2.xml
+C:\Users\dtlam\OneDrive\Documents\A Code\Winform\AdminLogin\AdminLogin\bin\Debug\DevExpress.Data.v23.2.xml
+C:\Users\dtlam\OneDrive\Documents\A Code\Winform\AdminLogin\AdminLogin\bin\Debug\DevExpress.Drawing.v23.2.xml
+C:\Users\dtlam\OneDrive\Documents\A Code\Winform\AdminLogin\AdminLogin\bin\Debug\DevExpress.Printing.v23.2.Core.xml
+C:\Users\dtlam\OneDrive\Documents\A Code\Winform\AdminLogin\AdminLogin\bin\Debug\DevExpress.Utils.v23.2.xml
+C:\Users\dtlam\OneDrive\Documents\A Code\Winform\AdminLogin\AdminLogin\bin\Debug\DevExpress.Pdf.v23.2.Core.xml
+C:\Users\dtlam\OneDrive\Documents\A Code\Winform\AdminLogin\AdminLogin\bin\Debug\DevExpress.Pdf.v23.2.Drawing.xml
+C:\Users\dtlam\OneDrive\Documents\A Code\Winform\AdminLogin\AdminLogin\obj\Debug\AdminLogin.csproj.AssemblyReference.cache
+C:\Users\dtlam\OneDrive\Documents\A Code\Winform\AdminLogin\AdminLogin\obj\Debug\AdminLogin.csproj.ResolveComReference.cache
+C:\Users\dtlam\OneDrive\Documents\A Code\Winform\AdminLogin\AdminLogin\obj\Debug\AdminLogin.DangKy.resources
+C:\Users\dtlam\OneDrive\Documents\A Code\Winform\AdminLogin\AdminLogin\obj\Debug\AdminLogin.DangNhap.resources
+C:\Users\dtlam\OneDrive\Documents\A Code\Winform\AdminLogin\AdminLogin\obj\Debug\AdminLogin.Home.resources
+C:\Users\dtlam\OneDrive\Documents\A Code\Winform\AdminLogin\AdminLogin\obj\Debug\AdminLogin.PlayerUnity.resources
+C:\Users\dtlam\OneDrive\Documents\A Code\Winform\AdminLogin\AdminLogin\obj\Debug\AdminLogin.Properties.Resources.resources
+C:\Users\dtlam\OneDrive\Documents\A Code\Winform\AdminLogin\AdminLogin\obj\Debug\AdminLogin.QuenMatKhau.resources
+C:\Users\dtlam\OneDrive\Documents\A Code\Winform\AdminLogin\AdminLogin\obj\Debug\AdminLogin.csproj.GenerateResource.cache
+C:\Users\dtlam\OneDrive\Documents\A Code\Winform\AdminLogin\AdminLogin\obj\Debug\AdminLogin.csproj.CoreCompileInputs.cache
+C:\Users\dtlam\OneDrive\Documents\A Code\Winform\AdminLogin\AdminLogin\obj\Debug\AdminLogin.csproj.CopyComplete
+C:\Users\dtlam\OneDrive\Documents\A Code\Winform\AdminLogin\AdminLogin\obj\Debug\AdminLogin.exe
+C:\Users\dtlam\OneDrive\Documents\A Code\Winform\AdminLogin\AdminLogin\obj\Debug\AdminLogin.pdb
+C:\Users\dtlam\OneDrive\Documents\A Code\Winform\AdminLogin\AdminLogin\bin\Debug\itext.barcodes.dll
+C:\Users\dtlam\OneDrive\Documents\A Code\Winform\AdminLogin\AdminLogin\bin\Debug\itext.bouncy-castle-connector.dll
+C:\Users\dtlam\OneDrive\Documents\A Code\Winform\AdminLogin\AdminLogin\bin\Debug\itext.commons.dll
+C:\Users\dtlam\OneDrive\Documents\A Code\Winform\AdminLogin\AdminLogin\bin\Debug\itext.forms.dll
+C:\Users\dtlam\OneDrive\Documents\A Code\Winform\AdminLogin\AdminLogin\bin\Debug\itext.io.dll
+C:\Users\dtlam\OneDrive\Documents\A Code\Winform\AdminLogin\AdminLogin\bin\Debug\itext.kernel.dll
+C:\Users\dtlam\OneDrive\Documents\A Code\Winform\AdminLogin\AdminLogin\bin\Debug\itext.layout.dll
+C:\Users\dtlam\OneDrive\Documents\A Code\Winform\AdminLogin\AdminLogin\bin\Debug\itext.pdfa.dll
+C:\Users\dtlam\OneDrive\Documents\A Code\Winform\AdminLogin\AdminLogin\bin\Debug\itext.pdfua.dll
+C:\Users\dtlam\OneDrive\Documents\A Code\Winform\AdminLogin\AdminLogin\bin\Debug\itext.sign.dll
+C:\Users\dtlam\OneDrive\Documents\A Code\Winform\AdminLogin\AdminLogin\bin\Debug\itext.styledxmlparser.dll
+C:\Users\dtlam\OneDrive\Documents\A Code\Winform\AdminLogin\AdminLogin\bin\Debug\itext.svg.dll
+C:\Users\dtlam\OneDrive\Documents\A Code\Winform\AdminLogin\AdminLogin\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\dtlam\OneDrive\Documents\A Code\Winform\AdminLogin\AdminLogin\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\dtlam\OneDrive\Documents\A Code\Winform\AdminLogin\AdminLogin\bin\Debug\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\dtlam\OneDrive\Documents\A Code\Winform\AdminLogin\AdminLogin\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\dtlam\OneDrive\Documents\A Code\Winform\AdminLogin\AdminLogin\bin\Debug\Microsoft.Extensions.Logging.dll
+C:\Users\dtlam\OneDrive\Documents\A Code\Winform\AdminLogin\AdminLogin\bin\Debug\Microsoft.Extensions.Options.dll
+C:\Users\dtlam\OneDrive\Documents\A Code\Winform\AdminLogin\AdminLogin\bin\Debug\Microsoft.Extensions.Primitives.dll
+C:\Users\dtlam\OneDrive\Documents\A Code\Winform\AdminLogin\AdminLogin\bin\Debug\Newtonsoft.Json.dll
+C:\Users\dtlam\OneDrive\Documents\A Code\Winform\AdminLogin\AdminLogin\bin\Debug\System.Buffers.dll
+C:\Users\dtlam\OneDrive\Documents\A Code\Winform\AdminLogin\AdminLogin\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\dtlam\OneDrive\Documents\A Code\Winform\AdminLogin\AdminLogin\bin\Debug\System.Memory.dll
+C:\Users\dtlam\OneDrive\Documents\A Code\Winform\AdminLogin\AdminLogin\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\dtlam\OneDrive\Documents\A Code\Winform\AdminLogin\AdminLogin\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\dtlam\OneDrive\Documents\A Code\Winform\AdminLogin\AdminLogin\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\dtlam\OneDrive\Documents\A Code\Winform\AdminLogin\AdminLogin\bin\Debug\System.ValueTuple.dll
+C:\Users\dtlam\OneDrive\Documents\A Code\Winform\AdminLogin\AdminLogin\bin\Debug\itext.barcodes.xml
+C:\Users\dtlam\OneDrive\Documents\A Code\Winform\AdminLogin\AdminLogin\bin\Debug\itext.bouncy-castle-connector.xml
+C:\Users\dtlam\OneDrive\Documents\A Code\Winform\AdminLogin\AdminLogin\bin\Debug\itext.commons.xml
+C:\Users\dtlam\OneDrive\Documents\A Code\Winform\AdminLogin\AdminLogin\bin\Debug\itext.forms.xml
+C:\Users\dtlam\OneDrive\Documents\A Code\Winform\AdminLogin\AdminLogin\bin\Debug\itext.io.xml
+C:\Users\dtlam\OneDrive\Documents\A Code\Winform\AdminLogin\AdminLogin\bin\Debug\itext.kernel.xml
+C:\Users\dtlam\OneDrive\Documents\A Code\Winform\AdminLogin\AdminLogin\bin\Debug\itext.layout.xml
+C:\Users\dtlam\OneDrive\Documents\A Code\Winform\AdminLogin\AdminLogin\bin\Debug\itext.pdfa.xml
+C:\Users\dtlam\OneDrive\Documents\A Code\Winform\AdminLogin\AdminLogin\bin\Debug\itext.pdfua.xml
+C:\Users\dtlam\OneDrive\Documents\A Code\Winform\AdminLogin\AdminLogin\bin\Debug\itext.sign.xml
+C:\Users\dtlam\OneDrive\Documents\A Code\Winform\AdminLogin\AdminLogin\bin\Debug\itext.styledxmlparser.xml
+C:\Users\dtlam\OneDrive\Documents\A Code\Winform\AdminLogin\AdminLogin\bin\Debug\itext.svg.xml
+C:\Users\dtlam\OneDrive\Documents\A Code\Winform\AdminLogin\AdminLogin\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\dtlam\OneDrive\Documents\A Code\Winform\AdminLogin\AdminLogin\bin\Debug\Microsoft.Extensions.DependencyInjection.xml
+C:\Users\dtlam\OneDrive\Documents\A Code\Winform\AdminLogin\AdminLogin\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+C:\Users\dtlam\OneDrive\Documents\A Code\Winform\AdminLogin\AdminLogin\bin\Debug\Microsoft.Extensions.Logging.xml
+C:\Users\dtlam\OneDrive\Documents\A Code\Winform\AdminLogin\AdminLogin\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+C:\Users\dtlam\OneDrive\Documents\A Code\Winform\AdminLogin\AdminLogin\bin\Debug\Microsoft.Extensions.Options.xml
+C:\Users\dtlam\OneDrive\Documents\A Code\Winform\AdminLogin\AdminLogin\bin\Debug\Microsoft.Extensions.Primitives.xml
+C:\Users\dtlam\OneDrive\Documents\A Code\Winform\AdminLogin\AdminLogin\bin\Debug\Newtonsoft.Json.xml
+C:\Users\dtlam\OneDrive\Documents\A Code\Winform\AdminLogin\AdminLogin\bin\Debug\System.Buffers.xml
+C:\Users\dtlam\OneDrive\Documents\A Code\Winform\AdminLogin\AdminLogin\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\dtlam\OneDrive\Documents\A Code\Winform\AdminLogin\AdminLogin\bin\Debug\System.Memory.xml
+C:\Users\dtlam\OneDrive\Documents\A Code\Winform\AdminLogin\AdminLogin\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\dtlam\OneDrive\Documents\A Code\Winform\AdminLogin\AdminLogin\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\dtlam\OneDrive\Documents\A Code\Winform\AdminLogin\AdminLogin\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\dtlam\OneDrive\Documents\A Code\Winform\AdminLogin\AdminLogin\bin\Debug\System.ValueTuple.xml
+C:\Users\dtlam\OneDrive\Documents\A Code\Winform\AdminLogin\AdminLogin\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\dtlam\OneDrive\Documents\A Code\Winform\AdminLogin\AdminLogin\bin\Debug\itextsharp.dll
+C:\Users\dtlam\OneDrive\Documents\A Code\Winform\AdminLogin\AdminLogin\bin\Debug\itextsharp.xml
+C:\Users\dtlam\OneDrive\Documents\A Code\Bản số 3\AdminLogin\bin\Debug\Database1.mdf
+C:\Users\dtlam\OneDrive\Documents\A Code\Bản số 3\AdminLogin\bin\Debug\Database1_log.ldf
+C:\Users\dtlam\OneDrive\Documents\A Code\Bản số 3\AdminLogin\bin\Debug\AdminLogin.exe.config
+C:\Users\dtlam\OneDrive\Documents\A Code\Bản số 3\AdminLogin\bin\Debug\AdminLogin.exe
+C:\Users\dtlam\OneDrive\Documents\A Code\Bản số 3\AdminLogin\bin\Debug\AdminLogin.pdb
+C:\Users\dtlam\OneDrive\Documents\A Code\Bản số 3\AdminLogin\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\dtlam\OneDrive\Documents\A Code\Bản số 3\AdminLogin\bin\Debug\itext.barcodes.dll
+C:\Users\dtlam\OneDrive\Documents\A Code\Bản số 3\AdminLogin\bin\Debug\itext.bouncy-castle-connector.dll
+C:\Users\dtlam\OneDrive\Documents\A Code\Bản số 3\AdminLogin\bin\Debug\itext.commons.dll
+C:\Users\dtlam\OneDrive\Documents\A Code\Bản số 3\AdminLogin\bin\Debug\itext.forms.dll
+C:\Users\dtlam\OneDrive\Documents\A Code\Bản số 3\AdminLogin\bin\Debug\itext.io.dll
+C:\Users\dtlam\OneDrive\Documents\A Code\Bản số 3\AdminLogin\bin\Debug\itext.kernel.dll
+C:\Users\dtlam\OneDrive\Documents\A Code\Bản số 3\AdminLogin\bin\Debug\itext.layout.dll
+C:\Users\dtlam\OneDrive\Documents\A Code\Bản số 3\AdminLogin\bin\Debug\itext.pdfa.dll
+C:\Users\dtlam\OneDrive\Documents\A Code\Bản số 3\AdminLogin\bin\Debug\itext.pdfua.dll
+C:\Users\dtlam\OneDrive\Documents\A Code\Bản số 3\AdminLogin\bin\Debug\itext.sign.dll
+C:\Users\dtlam\OneDrive\Documents\A Code\Bản số 3\AdminLogin\bin\Debug\itext.styledxmlparser.dll
+C:\Users\dtlam\OneDrive\Documents\A Code\Bản số 3\AdminLogin\bin\Debug\itext.svg.dll
+C:\Users\dtlam\OneDrive\Documents\A Code\Bản số 3\AdminLogin\bin\Debug\itextsharp.dll
+C:\Users\dtlam\OneDrive\Documents\A Code\Bản số 3\AdminLogin\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\dtlam\OneDrive\Documents\A Code\Bản số 3\AdminLogin\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\dtlam\OneDrive\Documents\A Code\Bản số 3\AdminLogin\bin\Debug\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\dtlam\OneDrive\Documents\A Code\Bản số 3\AdminLogin\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\dtlam\OneDrive\Documents\A Code\Bản số 3\AdminLogin\bin\Debug\Microsoft.Extensions.Logging.dll
+C:\Users\dtlam\OneDrive\Documents\A Code\Bản số 3\AdminLogin\bin\Debug\Microsoft.Extensions.Options.dll
+C:\Users\dtlam\OneDrive\Documents\A Code\Bản số 3\AdminLogin\bin\Debug\Microsoft.Extensions.Primitives.dll
+C:\Users\dtlam\OneDrive\Documents\A Code\Bản số 3\AdminLogin\bin\Debug\Newtonsoft.Json.dll
+C:\Users\dtlam\OneDrive\Documents\A Code\Bản số 3\AdminLogin\bin\Debug\System.Buffers.dll
+C:\Users\dtlam\OneDrive\Documents\A Code\Bản số 3\AdminLogin\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\dtlam\OneDrive\Documents\A Code\Bản số 3\AdminLogin\bin\Debug\System.Memory.dll
+C:\Users\dtlam\OneDrive\Documents\A Code\Bản số 3\AdminLogin\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\dtlam\OneDrive\Documents\A Code\Bản số 3\AdminLogin\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\dtlam\OneDrive\Documents\A Code\Bản số 3\AdminLogin\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\dtlam\OneDrive\Documents\A Code\Bản số 3\AdminLogin\bin\Debug\System.ValueTuple.dll
+C:\Users\dtlam\OneDrive\Documents\A Code\Bản số 3\AdminLogin\bin\Debug\DevExpress.Pdf.v23.2.Core.dll
+C:\Users\dtlam\OneDrive\Documents\A Code\Bản số 3\AdminLogin\bin\Debug\DevExpress.Pdf.v23.2.Drawing.dll
+C:\Users\dtlam\OneDrive\Documents\A Code\Bản số 3\AdminLogin\bin\Debug\DevExpress.Data.Desktop.v23.2.xml
+C:\Users\dtlam\OneDrive\Documents\A Code\Bản số 3\AdminLogin\bin\Debug\DevExpress.Data.v23.2.xml
+C:\Users\dtlam\OneDrive\Documents\A Code\Bản số 3\AdminLogin\bin\Debug\DevExpress.Drawing.v23.2.xml
+C:\Users\dtlam\OneDrive\Documents\A Code\Bản số 3\AdminLogin\bin\Debug\DevExpress.Printing.v23.2.Core.xml
+C:\Users\dtlam\OneDrive\Documents\A Code\Bản số 3\AdminLogin\bin\Debug\DevExpress.Utils.v23.2.xml
+C:\Users\dtlam\OneDrive\Documents\A Code\Bản số 3\AdminLogin\bin\Debug\itext.barcodes.xml
+C:\Users\dtlam\OneDrive\Documents\A Code\Bản số 3\AdminLogin\bin\Debug\itext.bouncy-castle-connector.xml
+C:\Users\dtlam\OneDrive\Documents\A Code\Bản số 3\AdminLogin\bin\Debug\itext.commons.xml
+C:\Users\dtlam\OneDrive\Documents\A Code\Bản số 3\AdminLogin\bin\Debug\itext.forms.xml
+C:\Users\dtlam\OneDrive\Documents\A Code\Bản số 3\AdminLogin\bin\Debug\itext.io.xml
+C:\Users\dtlam\OneDrive\Documents\A Code\Bản số 3\AdminLogin\bin\Debug\itext.kernel.xml
+C:\Users\dtlam\OneDrive\Documents\A Code\Bản số 3\AdminLogin\bin\Debug\itext.layout.xml
+C:\Users\dtlam\OneDrive\Documents\A Code\Bản số 3\AdminLogin\bin\Debug\itext.pdfa.xml
+C:\Users\dtlam\OneDrive\Documents\A Code\Bản số 3\AdminLogin\bin\Debug\itext.pdfua.xml
+C:\Users\dtlam\OneDrive\Documents\A Code\Bản số 3\AdminLogin\bin\Debug\itext.sign.xml
+C:\Users\dtlam\OneDrive\Documents\A Code\Bản số 3\AdminLogin\bin\Debug\itext.styledxmlparser.xml
+C:\Users\dtlam\OneDrive\Documents\A Code\Bản số 3\AdminLogin\bin\Debug\itext.svg.xml
+C:\Users\dtlam\OneDrive\Documents\A Code\Bản số 3\AdminLogin\bin\Debug\itextsharp.xml
+C:\Users\dtlam\OneDrive\Documents\A Code\Bản số 3\AdminLogin\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\dtlam\OneDrive\Documents\A Code\Bản số 3\AdminLogin\bin\Debug\Microsoft.Extensions.DependencyInjection.xml
+C:\Users\dtlam\OneDrive\Documents\A Code\Bản số 3\AdminLogin\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+C:\Users\dtlam\OneDrive\Documents\A Code\Bản số 3\AdminLogin\bin\Debug\Microsoft.Extensions.Logging.xml
+C:\Users\dtlam\OneDrive\Documents\A Code\Bản số 3\AdminLogin\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+C:\Users\dtlam\OneDrive\Documents\A Code\Bản số 3\AdminLogin\bin\Debug\Microsoft.Extensions.Options.xml
+C:\Users\dtlam\OneDrive\Documents\A Code\Bản số 3\AdminLogin\bin\Debug\Microsoft.Extensions.Primitives.xml
+C:\Users\dtlam\OneDrive\Documents\A Code\Bản số 3\AdminLogin\bin\Debug\Newtonsoft.Json.xml
+C:\Users\dtlam\OneDrive\Documents\A Code\Bản số 3\AdminLogin\bin\Debug\System.Buffers.xml
+C:\Users\dtlam\OneDrive\Documents\A Code\Bản số 3\AdminLogin\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\dtlam\OneDrive\Documents\A Code\Bản số 3\AdminLogin\bin\Debug\System.Memory.xml
+C:\Users\dtlam\OneDrive\Documents\A Code\Bản số 3\AdminLogin\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\dtlam\OneDrive\Documents\A Code\Bản số 3\AdminLogin\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\dtlam\OneDrive\Documents\A Code\Bản số 3\AdminLogin\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\dtlam\OneDrive\Documents\A Code\Bản số 3\AdminLogin\bin\Debug\System.ValueTuple.xml
+C:\Users\dtlam\OneDrive\Documents\A Code\Bản số 3\AdminLogin\bin\Debug\DevExpress.Pdf.v23.2.Core.xml
+C:\Users\dtlam\OneDrive\Documents\A Code\Bản số 3\AdminLogin\bin\Debug\DevExpress.Pdf.v23.2.Drawing.xml
+C:\Users\dtlam\OneDrive\Documents\A Code\Bản số 3\AdminLogin\obj\Debug\AdminLogin.csproj.AssemblyReference.cache
+C:\Users\dtlam\OneDrive\Documents\A Code\Bản số 3\AdminLogin\obj\Debug\AdminLogin.csproj.ResolveComReference.cache
+C:\Users\dtlam\OneDrive\Documents\A Code\Bản số 3\AdminLogin\obj\Debug\AdminLogin.DangKy.resources
+C:\Users\dtlam\OneDrive\Documents\A Code\Bản số 3\AdminLogin\obj\Debug\AdminLogin.DangNhap.resources
+C:\Users\dtlam\OneDrive\Documents\A Code\Bản số 3\AdminLogin\obj\Debug\AdminLogin.Home.resources
+C:\Users\dtlam\OneDrive\Documents\A Code\Bản số 3\AdminLogin\obj\Debug\AdminLogin.PlayerUnity.resources
+C:\Users\dtlam\OneDrive\Documents\A Code\Bản số 3\AdminLogin\obj\Debug\AdminLogin.Properties.Resources.resources
+C:\Users\dtlam\OneDrive\Documents\A Code\Bản số 3\AdminLogin\obj\Debug\AdminLogin.QuenMatKhau.resources
+C:\Users\dtlam\OneDrive\Documents\A Code\Bản số 3\AdminLogin\obj\Debug\AdminLogin.csproj.GenerateResource.cache
+C:\Users\dtlam\OneDrive\Documents\A Code\Bản số 3\AdminLogin\obj\Debug\AdminLogin.csproj.CoreCompileInputs.cache
+C:\Users\dtlam\OneDrive\Documents\A Code\Bản số 3\AdminLogin\obj\Debug\AdminLogin.csproj.CopyComplete
+C:\Users\dtlam\OneDrive\Documents\A Code\Bản số 3\AdminLogin\obj\Debug\AdminLogin.exe
+C:\Users\dtlam\OneDrive\Documents\A Code\Bản số 3\AdminLogin\obj\Debug\AdminLogin.pdb
+C:\Users\dtlam\OneDrive\Documents\A Code\AdminLogin\AdminLogin\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\dtlam\OneDrive\Documents\A Code\AdminLogin\AdminLogin\bin\Debug\itext.barcodes.dll
+C:\Users\dtlam\OneDrive\Documents\A Code\AdminLogin\AdminLogin\bin\Debug\itext.bouncy-castle-connector.dll
+C:\Users\dtlam\OneDrive\Documents\A Code\AdminLogin\AdminLogin\bin\Debug\itext.commons.dll
+C:\Users\dtlam\OneDrive\Documents\A Code\AdminLogin\AdminLogin\bin\Debug\itext.forms.dll
+C:\Users\dtlam\OneDrive\Documents\A Code\AdminLogin\AdminLogin\bin\Debug\itext.io.dll
+C:\Users\dtlam\OneDrive\Documents\A Code\AdminLogin\AdminLogin\bin\Debug\itext.kernel.dll
+C:\Users\dtlam\OneDrive\Documents\A Code\AdminLogin\AdminLogin\bin\Debug\itext.layout.dll
+C:\Users\dtlam\OneDrive\Documents\A Code\AdminLogin\AdminLogin\bin\Debug\itext.pdfa.dll
+C:\Users\dtlam\OneDrive\Documents\A Code\AdminLogin\AdminLogin\bin\Debug\itext.pdfua.dll
+C:\Users\dtlam\OneDrive\Documents\A Code\AdminLogin\AdminLogin\bin\Debug\itext.sign.dll
+C:\Users\dtlam\OneDrive\Documents\A Code\AdminLogin\AdminLogin\bin\Debug\itext.styledxmlparser.dll
+C:\Users\dtlam\OneDrive\Documents\A Code\AdminLogin\AdminLogin\bin\Debug\itext.svg.dll
+C:\Users\dtlam\OneDrive\Documents\A Code\AdminLogin\AdminLogin\bin\Debug\itextsharp.dll
+C:\Users\dtlam\OneDrive\Documents\A Code\AdminLogin\AdminLogin\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\dtlam\OneDrive\Documents\A Code\AdminLogin\AdminLogin\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\dtlam\OneDrive\Documents\A Code\AdminLogin\AdminLogin\bin\Debug\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\dtlam\OneDrive\Documents\A Code\AdminLogin\AdminLogin\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\dtlam\OneDrive\Documents\A Code\AdminLogin\AdminLogin\bin\Debug\Microsoft.Extensions.Logging.dll
+C:\Users\dtlam\OneDrive\Documents\A Code\AdminLogin\AdminLogin\bin\Debug\Microsoft.Extensions.Options.dll
+C:\Users\dtlam\OneDrive\Documents\A Code\AdminLogin\AdminLogin\bin\Debug\Microsoft.Extensions.Primitives.dll
+C:\Users\dtlam\OneDrive\Documents\A Code\AdminLogin\AdminLogin\bin\Debug\Newtonsoft.Json.dll
+C:\Users\dtlam\OneDrive\Documents\A Code\AdminLogin\AdminLogin\bin\Debug\System.Buffers.dll
+C:\Users\dtlam\OneDrive\Documents\A Code\AdminLogin\AdminLogin\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\dtlam\OneDrive\Documents\A Code\AdminLogin\AdminLogin\bin\Debug\System.Memory.dll
+C:\Users\dtlam\OneDrive\Documents\A Code\AdminLogin\AdminLogin\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\dtlam\OneDrive\Documents\A Code\AdminLogin\AdminLogin\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\dtlam\OneDrive\Documents\A Code\AdminLogin\AdminLogin\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\dtlam\OneDrive\Documents\A Code\AdminLogin\AdminLogin\bin\Debug\System.ValueTuple.dll
+C:\Users\dtlam\OneDrive\Documents\A Code\AdminLogin\AdminLogin\bin\Debug\itext.barcodes.xml
+C:\Users\dtlam\OneDrive\Documents\A Code\AdminLogin\AdminLogin\bin\Debug\itext.bouncy-castle-connector.xml
+C:\Users\dtlam\OneDrive\Documents\A Code\AdminLogin\AdminLogin\bin\Debug\itext.commons.xml
+C:\Users\dtlam\OneDrive\Documents\A Code\AdminLogin\AdminLogin\bin\Debug\itext.forms.xml
+C:\Users\dtlam\OneDrive\Documents\A Code\AdminLogin\AdminLogin\bin\Debug\itext.io.xml
+C:\Users\dtlam\OneDrive\Documents\A Code\AdminLogin\AdminLogin\bin\Debug\itext.kernel.xml
+C:\Users\dtlam\OneDrive\Documents\A Code\AdminLogin\AdminLogin\bin\Debug\itext.layout.xml
+C:\Users\dtlam\OneDrive\Documents\A Code\AdminLogin\AdminLogin\bin\Debug\itext.pdfa.xml
+C:\Users\dtlam\OneDrive\Documents\A Code\AdminLogin\AdminLogin\bin\Debug\itext.pdfua.xml
+C:\Users\dtlam\OneDrive\Documents\A Code\AdminLogin\AdminLogin\bin\Debug\itext.sign.xml
+C:\Users\dtlam\OneDrive\Documents\A Code\AdminLogin\AdminLogin\bin\Debug\itext.styledxmlparser.xml
+C:\Users\dtlam\OneDrive\Documents\A Code\AdminLogin\AdminLogin\bin\Debug\itext.svg.xml
+C:\Users\dtlam\OneDrive\Documents\A Code\AdminLogin\AdminLogin\bin\Debug\itextsharp.xml
+C:\Users\dtlam\OneDrive\Documents\A Code\AdminLogin\AdminLogin\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\dtlam\OneDrive\Documents\A Code\AdminLogin\AdminLogin\bin\Debug\Microsoft.Extensions.DependencyInjection.xml
+C:\Users\dtlam\OneDrive\Documents\A Code\AdminLogin\AdminLogin\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+C:\Users\dtlam\OneDrive\Documents\A Code\AdminLogin\AdminLogin\bin\Debug\Microsoft.Extensions.Logging.xml
+C:\Users\dtlam\OneDrive\Documents\A Code\AdminLogin\AdminLogin\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+C:\Users\dtlam\OneDrive\Documents\A Code\AdminLogin\AdminLogin\bin\Debug\Microsoft.Extensions.Options.xml
+C:\Users\dtlam\OneDrive\Documents\A Code\AdminLogin\AdminLogin\bin\Debug\Microsoft.Extensions.Primitives.xml
+C:\Users\dtlam\OneDrive\Documents\A Code\AdminLogin\AdminLogin\bin\Debug\Newtonsoft.Json.xml
+C:\Users\dtlam\OneDrive\Documents\A Code\AdminLogin\AdminLogin\bin\Debug\System.Buffers.xml
+C:\Users\dtlam\OneDrive\Documents\A Code\AdminLogin\AdminLogin\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\dtlam\OneDrive\Documents\A Code\AdminLogin\AdminLogin\bin\Debug\System.Memory.xml
+C:\Users\dtlam\OneDrive\Documents\A Code\AdminLogin\AdminLogin\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\dtlam\OneDrive\Documents\A Code\AdminLogin\AdminLogin\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\dtlam\OneDrive\Documents\A Code\AdminLogin\AdminLogin\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\dtlam\OneDrive\Documents\A Code\AdminLogin\AdminLogin\bin\Debug\System.ValueTuple.xml
+C:\Users\dtlam\OneDrive\Documents\A Code\AdminLogin\AdminLogin\obj\Debug\AdminLogin.csproj.ResolveComReference.cache
