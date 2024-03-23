@@ -30,6 +30,7 @@
         {
             this.components = new System.ComponentModel.Container();
             this.groupBox1 = new System.Windows.Forms.GroupBox();
+            this.button_Exit = new System.Windows.Forms.Button();
             this.button_excel = new System.Windows.Forms.Button();
             this.button_PDF = new System.Windows.Forms.Button();
             this.comboBox_luachon = new System.Windows.Forms.ComboBox();
@@ -54,7 +55,6 @@
             this.luongBossTieuDiet = new System.Windows.Forms.DataGridViewTextBoxColumn();
             this.diemCaoNhat = new System.Windows.Forms.DataGridViewTextBoxColumn();
             this.level = new System.Windows.Forms.DataGridViewTextBoxColumn();
-            this.button_Exit = new System.Windows.Forms.Button();
             this.groupBox1.SuspendLayout();
             ((System.ComponentModel.ISupportInitialize)(this.dataGridView1)).BeginInit();
             ((System.ComponentModel.ISupportInitialize)(this.managerBindingSource1)).BeginInit();
@@ -86,6 +86,16 @@
             this.groupBox1.TabIndex = 0;
             this.groupBox1.TabStop = false;
             this.groupBox1.Text = "Thông tin người chơi";
+            // 
+            // button_Exit
+            // 
+            this.button_Exit.Location = new System.Drawing.Point(1094, 1123);
+            this.button_Exit.Name = "button_Exit";
+            this.button_Exit.Size = new System.Drawing.Size(288, 154);
+            this.button_Exit.TabIndex = 8;
+            this.button_Exit.Text = "Exit";
+            this.button_Exit.UseVisualStyleBackColor = true;
+            this.button_Exit.Click += new System.EventHandler(this.button_Exit_Click);
             // 
             // button_excel
             // 
@@ -122,6 +132,7 @@
             this.comboBox_luachon.Name = "comboBox_luachon";
             this.comboBox_luachon.Size = new System.Drawing.Size(338, 45);
             this.comboBox_luachon.TabIndex = 5;
+            this.comboBox_luachon.SelectedIndexChanged += new System.EventHandler(this.comboBox_luachon_SelectedIndexChanged);
             // 
             // label2
             // 
@@ -186,6 +197,7 @@
             this.dataGridView1.RowTemplate.Height = 33;
             this.dataGridView1.Size = new System.Drawing.Size(1658, 782);
             this.dataGridView1.TabIndex = 0;
+            this.dataGridView1.CellContentClick += new System.Windows.Forms.DataGridViewCellEventHandler(this.dataGridView1_CellContentClick);
             // 
             // managerBindingSource1
             // 
@@ -286,16 +298,6 @@
             this.level.Name = "level";
             this.level.Width = 200;
             // 
-            // button_Exit
-            // 
-            this.button_Exit.Location = new System.Drawing.Point(1094, 1123);
-            this.button_Exit.Name = "button_Exit";
-            this.button_Exit.Size = new System.Drawing.Size(288, 154);
-            this.button_Exit.TabIndex = 8;
-            this.button_Exit.Text = "Exit";
-            this.button_Exit.UseVisualStyleBackColor = true;
-            this.button_Exit.Click += new System.EventHandler(this.button_Exit_Click);
-            // 
             // Home
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(12F, 25F);
@@ -339,6 +341,7 @@
         private Database1DataSet2TableAdapters.ManagerTableAdapter managerTableAdapter2;
         private System.Windows.Forms.Button button_PDF;
         private System.Windows.Forms.Button button_excel;
+        private System.Windows.Forms.Button button_Exit;
         private System.Windows.Forms.DataGridViewTextBoxColumn Id;
         private System.Windows.Forms.DataGridViewTextBoxColumn TenTaiKhoan;
         private System.Windows.Forms.DataGridViewTextBoxColumn timeplay;
@@ -346,6 +349,5 @@
         private System.Windows.Forms.DataGridViewTextBoxColumn luongBossTieuDiet;
         private System.Windows.Forms.DataGridViewTextBoxColumn diemCaoNhat;
         private System.Windows.Forms.DataGridViewTextBoxColumn level;
-        private System.Windows.Forms.Button button_Exit;
     }
 }

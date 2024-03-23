@@ -221,5 +221,15 @@ namespace AdminLogin
             // Thoát khỏi ứng dụng
             Application.Exit();
         }
+
+        private void comboBox_luachon_SelectedIndexChanged(object sender, EventArgs e)
+        {
+
+        }
+
+        private void dataGridView1_CellContentClick(object sender, DataGridViewCellEventArgs e)
+        {
+
+        }
     }
 }
